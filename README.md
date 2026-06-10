@@ -12,7 +12,7 @@ This project simulates basic banking operations such as account creation, deposi
 -  Persistent data storage using file handling (`account.txt`)
 -  Menu-driven user interface
 
-##  Technologies Used
+ Technologies Used
 
 - Language: **C++**
 - Concepts:
